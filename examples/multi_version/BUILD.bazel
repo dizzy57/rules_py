@@ -23,7 +23,7 @@ py_test(
     deps = [
         ":__test__",
     ],
-    python_version = "3.8.12"
+    python_version = "3.10.13"
 )
 py_test(
     name = "py_version_default_test",
